@@ -1,0 +1,15 @@
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\TiposEjercicio_2.csproj.AssemblyReference.cache
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\TiposEjercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\TiposEjercicio_2.AssemblyInfoInputs.cache
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\TiposEjercicio_2.AssemblyInfo.cs
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\TiposEjercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\bin\Debug\net6.0\TiposEjercicio_2.exe
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\bin\Debug\net6.0\TiposEjercicio_2.deps.json
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\bin\Debug\net6.0\TiposEjercicio_2.runtimeconfig.json
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\bin\Debug\net6.0\TiposEjercicio_2.dll
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\bin\Debug\net6.0\TiposEjercicio_2.pdb
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\TiposEjercicio_2.dll
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\refint\TiposEjercicio_2.dll
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\TiposEjercicio_2.pdb
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\TiposEjercicio_2.genruntimeconfig.cache
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\TiposEjercicio_2\obj\Debug\net6.0\ref\TiposEjercicio_2.dll
