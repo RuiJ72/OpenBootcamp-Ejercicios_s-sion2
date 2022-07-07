@@ -1,0 +1,15 @@
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\bin\Debug\net6.0\VariablesEjercicio_1.exe
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\bin\Debug\net6.0\VariablesEjercicio_1.deps.json
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\bin\Debug\net6.0\VariablesEjercicio_1.runtimeconfig.json
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\bin\Debug\net6.0\VariablesEjercicio_1.dll
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\bin\Debug\net6.0\VariablesEjercicio_1.pdb
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\VariablesEjercicio_1.csproj.AssemblyReference.cache
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\VariablesEjercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\VariablesEjercicio_1.AssemblyInfoInputs.cache
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\VariablesEjercicio_1.AssemblyInfo.cs
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\VariablesEjercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\VariablesEjercicio_1.dll
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\refint\VariablesEjercicio_1.dll
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\VariablesEjercicio_1.pdb
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\VariablesEjercicio_1.genruntimeconfig.cache
+C:\Users\Rui Lagos\Documents\Bootcamp\VariablesEjercicio_1\VariablesEjercicio_1\obj\Debug\net6.0\ref\VariablesEjercicio_1.dll
